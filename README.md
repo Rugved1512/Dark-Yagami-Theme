@@ -21,6 +21,7 @@ This Extension is a Dark Theme made for the coders who prefer bright text over a
 
 ## Feedback
 - Feel free to point out any issue with the theme in the [repository](https://github.com/Rugved1512/dark-yagami-theme) or make a pull request
+- If you like the theme please do not forget to give it a rating on the VS Code Marketplace.
 
 
 ## Creator
