@@ -50,5 +50,9 @@
                 "path": "./themes/Dark Yagami Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Rugved1512/dark-yagami-theme.git"
+      }
 }
