@@ -1,0 +1,54 @@
+{
+    "name": "dark-yagami-theme",
+    "displayName": "Dark Yagami Theme",
+    "description": "A Must-Try Dark Theme for VS Code made by: Rugved Narvenker",
+    "version": "0.0.1",
+    "publisher": "RugvedNarvenker",
+    "icon": "Pics/Logo.png",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "vscode",
+        "dark",
+        "theme",
+        "Light Yagami",
+        "Death Note",
+        "Rugved",
+        "Narvenker",
+        "Java",
+        "Python",
+        "C",
+        "C++",
+        "Css",
+        "HTML",
+        "Ruby",
+        "Flutter",
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Dracula",
+        "Atom",
+        "Winter",
+        "GitHub",
+        "Git",
+        "Debugger",
+        "Compiler",
+        "Color",
+        "Node",
+        "Best"  
+    ],
+
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Yagami Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Yagami Theme-color-theme.json"
+            }
+        ]
+    }
+}
